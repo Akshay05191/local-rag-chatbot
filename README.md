@@ -1,4 +1,4 @@
-# 📄 Offline RAG Chatbot — FAISS + Ollama + Mistral
+# 📄 DocuRAG - Multi Document Offline RAG Chatbot — FAISS + Ollama + Mistral
 
 A fully offline Retrieval-Augmented Generation (RAG) chatbot that lets you upload multiple documents and ask questions across all of them. Supports PDF, DOCX, XLSX, and PPTX files. No internet connection or API keys required after setup.
 
